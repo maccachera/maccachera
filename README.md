@@ -33,13 +33,4 @@ Aqui estão as tecnologias que domino e utilizo no meu dia a dia:
 
 ---
 
-### 📈 Minhas Estatísticas
-*(Dica: Você pode usar o [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) para gerar esses cards automaticamente)*
 
-[![Seu Nome's github stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-> "Desenvolvimento web não é apenas sobre fazer funcionar, é sobre escrever código que pessoas possam ler e manter."
-
----
