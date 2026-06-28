@@ -26,11 +26,5 @@ Aqui estão as tecnologias que domino e utilizo no meu dia a dia:
 
 ### 🚀 Projetos em Destaque
 
-* **Painel de Monitoria (Ibmec):** Sistema Full Stack para gestão de dúvidas de alunos.
-    * *Backend:* Django & Django REST Framework.
-    * *Frontend:* React.js, Vite & Axios.
-    * *Foco:* Arquitetura de componentes e API REST.
-
----
 
 
