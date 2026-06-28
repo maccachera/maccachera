@@ -1,6 +1,6 @@
 # Olá, sou o Gabriel! 👋
 
-Sou desenvolvedor Full Stack com experiência prática na criação de sistemas web e monitoria acadêmica. Tenho foco em construir soluções escaláveis, organizadas e de fácil manutenção.
+Sou desenvolvedor Full Stack com foco em Back-End. Tenho foco em construir soluções escaláveis, organizadas e de fácil manutenção.
 
 ### 💻 Tecnologias e Ferramentas
 
